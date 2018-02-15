@@ -1,0 +1,7 @@
+h1 { color:green;}
+
+body {background-color: pink;}
+ 
+ p {color:dark green;}
+ 
+h1, body {font-family: 'Josefin Sans', sans-serif; }
